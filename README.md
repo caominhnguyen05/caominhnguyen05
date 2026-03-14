@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi 👋 I'm Cao Minh Nguyen
 
-<!--
-**caominhnguyen05/caominhnguyen05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science and Engineering student at Delft University of Technology
+💻 Interested in backend development, data analysis, and scalable APIs
+📍 Based in Delft, The Netherlands
 
-Here are some ideas to get you started:
+I enjoy building robust backend systems, data processing pipelines, and full-stack applications.
+Through multiple SWE internships and projects, I've worked with modern tools like Java Spring Boot, NestJS, PostgreSQL, AWS, and Docker to design and deliver production-ready systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+- 🎓 BSc Computer Science & Engineering student (GPA 8.56 / 10)
+- 👨‍🏫 Teaching Assistant for Big Data Processing (CSE2520)
+- ⚙️ Backend-focused developer with full-stack experience
+- 📊 Interested in data analytics and machine learning systems
+
+🛠 Tech Stack
+Languages
+
+Java • Python • TypeScript • JavaScript • SQL
+
+Backend
+
+Java Spring Boot
+
+NestJS
+
+Node.js
+
+Frontend
+
+React.js
+
+Next.js
+
+Tailwind CSS
+
+Data & Machine Learning
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Seaborn
+
+Databases
+
+PostgreSQL
+
+DynamoDB
+
+Infrastructure & Tools
+
+Docker
+
+AWS (Lambda, API Gateway, Cognito)
+
+Git / GitHub / GitLab
