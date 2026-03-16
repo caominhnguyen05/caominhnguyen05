@@ -1,19 +1,11 @@
 ## Hi 👋 I'm Cao Minh Nguyen
 
-🎓 Final-year Computer Science and Engineering student at TU Delft
-
-💻 Interested in backend development, data analysis, and scalable APIs
-
-📍 Based in Delft, The Netherlands
-
-I enjoy building robust backend systems, data processing pipelines, and full-stack applications.
-Through multiple SWE internships and projects, I've worked with modern tools like Java Spring Boot, NestJS, PostgreSQL, AWS, and Docker to design and deliver production-ready systems.
-
 ### 🚀 About Me
 - 🎓 BSc Computer Science & Engineering student
 - 👨‍🏫 Teaching Assistant for Big Data Processing (CSE2520)
 - ⚙️ Backend-focused developer with full-stack experience
 - 📊 Interested in data analytics and machine learning systems
+- 📍 Based in Delft, The Netherlands
 
 ### 🛠 Tech Stack
 **Languages:** Java, Python, TypeScript, JavaScript, SQL
