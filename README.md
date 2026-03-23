@@ -1,10 +1,10 @@
 ## Hi 👋 I'm Cao Minh Nguyen
 
 ### 🚀 About Me
-- 🎓 BSc Computer Science & Engineering student
+- 🎓 TU Delft BSc Computer Science & Engineering student
 - 👨‍🏫 Teaching Assistant for Big Data Processing (CSE2520)
 - ⚙️ Backend-focused developer with full-stack experience
-- 📊 Interested in data analytics and machine learning systems
+- 📊 Interested in data analytics and machine learning algorithms
 - 📍 Based in Delft, The Netherlands
 
 ### 🛠 Tech Stack
